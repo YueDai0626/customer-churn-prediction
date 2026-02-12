@@ -2,9 +2,11 @@
 Business Problem: Predict customer churn to help companies improve retention and maximize revenue.
 
 ## Project Overview
+This project aims to predict customer churn using machine learning models in Python.
 
-This project aims to predict customer churn using machine learning models in Python.  
 The objective is to demonstrate a complete end-to-end machine learning workflow including data preprocessing, feature engineering, model training, and evaluation.
+
+This project builds a complete end-to-end machine learning pipeline including data preprocessing, feature engineering, modeling, evaluation, and statistical testing.
 
 ---
 
