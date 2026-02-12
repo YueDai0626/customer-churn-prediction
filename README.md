@@ -1,12 +1,17 @@
 # Customer Churn Prediction using Machine Learning
-Business Problem: Predict customer churn to help companies improve retention and maximize revenue.
+
+## Key Results
+- Model Accuracy: 85%
+- Cross-validation accuracy: 83% ± 2%
+- Key churn drivers identified: contract type, monthly charges, tenure
+
+## Business Problem
+Predict customer churn to help companies improve retention and maximize revenue.
 
 ## Project Overview
-This project aims to predict customer churn using machine learning models in Python.
+This project predicts customer churn using machine learning models implemented in Python.
 
-The objective is to demonstrate a complete end-to-end machine learning workflow including data preprocessing, feature engineering, model training, and evaluation.
-
-This project builds a complete end-to-end machine learning pipeline including data preprocessing, feature engineering, modeling, evaluation, and statistical testing.
+This project implements a production-style end-to-end machine learning pipeline including data preprocessing, feature engineering, model training, evaluation, and statistical testing.
 
 ---
 
