@@ -1,4 +1,5 @@
-# Customer Churn Prediction
+# Customer Churn Prediction using Machine Learning
+Business Problem: Predict customer churn to help companies improve retention and maximize revenue.
 
 ## Project Overview
 
